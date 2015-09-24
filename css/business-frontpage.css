@@ -19,6 +19,14 @@ body {
     -o-background-size: cover;
 }
 
+.title {
+    padding-top: 20%;
+}
+
+.headshot {
+    padding: 10px;
+}
+
 /* Customize the text color and shadow color and to optimize text legibility. */
 
 .tagline {
